@@ -208,3 +208,8 @@ MinStack.prototype.top=function(){
 MinStack.prototype.getMin=function(){
     return this.stack2[this.stack2.length-1]
 }
+
+
+
+
+
