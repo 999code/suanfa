@@ -50,3 +50,7 @@ MyQueue.prototype.peek=function(){
 MyQueue.prototype.empty=function(){
     return !this.stack1.length && !this.stack2.length
 }
+
+
+
+

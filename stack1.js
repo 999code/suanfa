@@ -181,12 +181,12 @@ const dailyTemperatures = function(T) {
 
 
 
+// 最小栈
 
-
-  const MinStack=function(){
-      this.stack=[]
-      this.stack2=[]
-  }
+const MinStack=function(){
+    this.stack=[]
+    this.stack2=[]
+}
 
 MinStack.prototype.push=function(x){
     this.stack.push(x)
